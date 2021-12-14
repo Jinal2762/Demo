@@ -1,0 +1,10 @@
+arham-qaunt,english,gk
+python-all tables(view,insert,delete)
+Qaunt
+Gk
+DI
+Project
+Assignments-OOPJ1&2
+git & github
+
+
